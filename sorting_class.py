@@ -1,4 +1,4 @@
-# It's a class that can sort 1D list, sublists of a 2D list based on
+# Functions that can sort 1D list, sublists of a 2D list based on
 #   a specific index
 import random
 
